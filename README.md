@@ -6,6 +6,7 @@ aqui te presentamos el archivo del juego
 
 
 y el codigo es:
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
