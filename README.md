@@ -5,7 +5,7 @@ juego de battle ship segundo semestre
 aqui te presentamos el archivo del juego 
 
 
-y el codigo es:
+y el codigo para compilar es:
 
 #include <stdio.h>
 #include <stdlib.h>
